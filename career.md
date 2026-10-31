@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | TMA | … | https://www.tma.vn/tuyen-dung | 28/10/2026 |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | TMA | A.I ENGINEER | https://www.tma.vn/tuyen-dung/chi-tiet/ai-engineer-1087 | 28/10/2026 |
+| 2 | Vietcombank | Khoa học dữ liệu |https://tuyendung.vietcombank.com.vn/job/H%C3%A0-N%E1%BB%99i-TT-KT&KHDL_Tr%C6%B0%E1%BB%9Fng-ph%C3%B2ng-Khoa-h%E1%BB%8Dc-d%E1%BB%AF-li%E1%BB%87u/60612144/ | 28/10/2026 |
+| 3 | VPBank | .NET Developer |https://tuyendung.vpbank.com.vn/job/_NET-Developer/3896-vi_VN/| 28/10/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
