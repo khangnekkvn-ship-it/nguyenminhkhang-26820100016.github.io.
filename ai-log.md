@@ -19,10 +19,10 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
-2. …
-3. …
+1. Cho thông tin sai về các trận bóng đá và tỉ số
+2. Cho sai về ngành học và định hướng chưa phù hợp
+3. Cho sai về đáp án
 
 ## Điều tôi học được về cách làm việc với nó
 
-…
+Làm việc với AI như là làm việc với 1 người bạn đồng hành 24/7. Không ràng buộc, có thể trả lời bất cứ lúc nào nhưng cũng phải nhìn nhận đúng sai về nó
