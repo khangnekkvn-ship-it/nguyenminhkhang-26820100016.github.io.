@@ -19,10 +19,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | TMA | Vietcombank | VPBank |một phần|
+| Kỹ năng | TMA | Vietcombank | VPBank | rồi |
+| Thái độ | TMA | Vietcombank | VPBank | rồi |
+| Công cụ | TMA | …Vietcombank| VPBank | một phần |
 
 ## Ba tin tuyển dụng
 
