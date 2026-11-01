@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang hướng đến công vi�
 - Xếp lộ trình 8 học kỳ, cộng đúng 150 tín chỉ → [roadmap.md](roadmap.md)
 - Kiểm định một công cụ AI, bắt được 3 lỗi → [ai-audit.md](ai-audit.md)
 
-khangnekkvn@gmail.com · <https://…github.io>
+khangnekkvn@gmail.com · <https://khangnekkvn-ship-it.github.io/nguyenminhkhang-26820100016.github.io./>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: khangnekkvn@gmail.com*
+*Cập nhật lần cuối: 29.10.2026 · Liên hệ: khangnekkvn@gmail.com*
