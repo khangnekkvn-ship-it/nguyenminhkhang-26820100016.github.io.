@@ -18,8 +18,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | Thiết kế standee, poster, ấn phẩm quảng cáo cho công ty, Quản trị fanpage, đăng bài lên fanpage các cửa hàng, làm đầu mối marketing cho cửa hàng, Hỗ trợ tổ chức các sự kiện của cửa hàng, Hỗ trợ vận hành cho cửa hàng | Vietcombank | VPBank |một phần|
-| Kỹ năng | - Thành thạo kỹ năng giao tiếp & Thuyết trình, Có khả năng đọc hiểu, nghiên cứu tài liệu kỹ thuật tiếng Anh, có thể làm việc ngoài giờ và đi công tác đáp ứng tiến độ của dự án.| - có kinh nghiệm bán hàng ở các siêu thị, cửa hàng tiện.
-- Giao tiếp tốt, có khả năng sắp xếp thời gian trong công việc. | Được đào tạo kỹ năng nghiệp vụ | rồi |
+| Kỹ năng | - Thành thạo kỹ năng giao tiếp & Thuyết trình, Có khả năng đọc hiểu, nghiên cứu tài liệu kỹ thuật tiếng Anh, có thể làm việc ngoài giờ và đi công tác đáp ứng tiến độ của dự án.| - có kinh nghiệm bán hàng ở các siêu thị, cửa hàng tiện, Giao tiếp tốt, có khả năng sắp xếp thời gian trong công việc. | Được đào tạo kỹ năng nghiệp vụ | rồi |
 | Thái độ | Sẵn Sàn Khi Có Nhiệm Vụ Được Giao | Luôn ưu tiên các nhiệm vụ quan trọng | Sắp xếp nhiệm vụ hợp lý | rồi |
 | Công cụ | Sử dụng thành thạo phần mềm : Roblox Studios và Blender | - hệ thống quản lý và đánh giá công việc.| Sử dụng tốt word, excel… | một phần |
 
