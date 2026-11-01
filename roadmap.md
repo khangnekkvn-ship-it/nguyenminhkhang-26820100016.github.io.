@@ -6,7 +6,13 @@ title: Bản đồ học tập bốn năm
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+"Trong 2-3 năm tới, mục tiêu lớn nhất của tôi là trở thành một AI Engineer (Kỹ sư Trí tuệ nhân tạo) chuyên nghiệp trong ngành Công nghệ thông tin.
+
+Lý do định hướng này cuốn hút tôi xuất phát từ niềm đam mê khám phá và tìm tòi sâu xa: tôi không chỉ muốn biết công nghệ vận hành ra sao, mà luôn khao khát làm chủ các nguyên lý kiến trúc hạ tầng và thuật toán cốt lõi đứng sau các cỗ máy thông minh. Tôi đặc biệt bị hấp dẫn bởi tốc độ tiến hóa của các công nghệ mới như Trí tuệ nhân tạo (Generative AI, Large Language Models), Học máy (Machine Learning) và An ninh mạng cho AI (AI Security / AI Red Teaming). Mục tiêu cụ thể của tôi là tự tay thiết kế, tối ưu và triển khai các ứng dụng AI thông minh có khả năng tương tác trực tiếp, cá nhân hóa và mang lại giá trị thực tế cho người dùng toàn cầu.
+
+Đặc biệt, trong bối cảnh làn sóng AI đang bùng nổ mạnh mẽ cùng thị trường việc làm dịch chuyển không biên giới, vai trò của một AI Engineer không chỉ dừng lại ở việc viết code thuần túy. Công việc này đòi hỏi tôi phải rèn luyện một tư duy logic toán học nhạy bén, khả năng nghiên cứu chuyên sâu (Research) để đọc hiểu các bài báo khoa học mới nhất, và năng lực tự học (Self-learning) liên tục nhằm không bị tụt hậu trước các framework mới.
+
+Bên cạnh kỹ thuật hard-core, năng lực ngoại ngữ (đặc biệt là Tiếng Anh) là chiếc chìa khóa bắt buộc giúp tôi tiếp cận trực tiếp với kho tàng tri thức toàn cầu, các tài liệu kỹ thuật từ các phòng Lab hàng đầu và tham gia vào cộng đồng Open-source quốc tế. Đồng thời, kỹ năng làm việc nhóm và tư duy liên ngành (Interdisciplinary Collaboration) sẽ giúp tôi phối hợp nhịp nhàng với các Kỹ sư dữ liệu (Data Engineer), Chuyên gia bảo mật và Quản trị dự án để cùng phát triển các hệ thống AI toàn diện, bảo mật và có đạo đức. Đây chính là bệ phóng vững chắc để tôi tự tin nắm bắt những cơ hội nghề nghiệp toàn cầu đầy hấp dẫn trong kỷ nguyên số.
 
 ## Tám học kỳ
 
