@@ -9,9 +9,7 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
-
-Vì sao: …
+Tôi có một niềm đam mê lớn trong việc khám phá và giải mã nguyên lý hoạt động của máy móc, đồng thời luôn chủ động cập nhật các xu hướng công nghệ tiên phong như Trí tuệ nhân tạo (AI) và An ninh mạng. Mục tiêu lớn nhất của tôi là xây dựng những ứng dụng có tính tương tác cao, mang lại giá trị trực tiếp cho người dùng. Trong kỷ nguyên số và bối cảnh toàn cầu hóa hiện nay, tôi hiểu rằng một kỹ sư giỏi không chỉ cần tư duy logic và năng lực tự học chuyên sâu, mà còn phải làm chủ ngoại ngữ cùng kỹ năng làm việc nhóm. Đó chính là chìa khóa giúp tôi tiếp cận tri thức quốc tế, phối hợp hiệu quả trong các dự án lớn và sẵn sàng đón nhận những cơ hội nghề nghiệp toàn cầu.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -19,10 +17,11 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | TMA | Vietcombank | VPBank |một phần|
-| Kỹ năng | TMA | Vietcombank | VPBank | rồi |
-| Thái độ | TMA | Vietcombank | VPBank | rồi |
-| Công cụ | TMA | …Vietcombank| VPBank | một phần |
+| Kiến thức | Thiết kế standee, poster, ấn phẩm quảng cáo cho công ty, Quản trị fanpage, đăng bài lên fanpage các cửa hàng, làm đầu mối marketing cho cửa hàng, Hỗ trợ tổ chức các sự kiện của cửa hàng, Hỗ trợ vận hành cho cửa hàng | Vietcombank | VPBank |một phần|
+| Kỹ năng | - Thành thạo kỹ năng giao tiếp & Thuyết trình - Có khả năng đọc hiểu, nghiên cứu tài liệu kỹ thuật tiếng Anh.
+- Có thể làm việc ngoài giờ và đi công tác đáp ứng tiến độ của dự án.| Vietcombank | VPBank | rồi |
+| Thái độ | Sẵn Sàn Khi Có Nhiệm Vụ Được Giao | Luôn ưu tiên các nhiệm vụ quan trọng | Sắp xếp nhiệm vụ hợp lý | rồi |
+| Công cụ | Sử dụng thành thạo phần mềm : Roblox Studios và Blender | - hệ thống quản lý và đánh giá công việc.| Sử dụng tốt word, excel… | một phần |
 
 ## Ba tin tuyển dụng
 
