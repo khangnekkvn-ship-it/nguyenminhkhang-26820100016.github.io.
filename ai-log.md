@@ -11,10 +11,10 @@ title: Nhật ký dùng AI
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
 | 1 | Gemini | Sinh bản nháp + Đối tác phản biện | Em nhờ nó tạo ra một bảng năng lực rút từ 3 tin tuyển dụng thật | Sửa lại gì mà nó tự ý thêm vào, các yêu cầu có vẻ nhẹ nhàng hơn nhưng yêu cầu gốc thì không có. |
-| 2 | NotebookLM | Đối tác phản biện | Tạo ra bảng 8 học kỳ theo chương trình file chương trình đào tạo HUTECH trong các giờ học cũng như ở nhà | … |
-| 3 | Chat GPT, Gemini | Sinh bản nháp | Em đã nhờ AI dựng khung bảng trong Cẩm nang làm việc nhóm | … |
-| 4 | Gemini, ChatGPT | Người kèm cặp | Em đã nhờ công cụ AI đóng vai Tutor để bản thân như thế nào trong Bảng tự kiểm 7 nhóm năng lực | … |
-| 5 | Grox, Gemini | Đối tác phản biện | Em đã hỏi nó về 5 câu hỏi trong Bảng 5 câu kiểm thử công cụ AI, thì nó đã đưa ra 2 câu trùng lặp khác với điều kiện ban đầu em ràng buộc. Và đã bịa thêm thông tin không đúng trong Dữ kiện địa phương. | … |
+| 2 | NotebookLM | Đối tác phản biện | Tạo ra bảng 8 học kỳ theo chương trình file chương trình đào tạo HUTECH trong các giờ học cũng như ở nhà | Em đã sửa lại đúng 150 tín chỉ tích lũy, sắp xếp lại 5 tín chỉ không tích lũy theo khung chương trình riêng do AI tạo ra thêm. |
+| 3 | Chat GPT, Gemini | Sinh bản nháp | Em đã nhờ AI dựng khung bảng trong Cẩm nang làm việc nhóm | Em đã chỉnh sửa lại cho đúng điều kiện mà em đã ràng buộc trước, trong khi AI lại thêm những cái không đúng. |
+| 4 | Gemini, ChatGPT | Người kèm cặp | Em đã nhờ công cụ AI đóng vai Tutor để bản thân như thế nào trong Bảng tự kiểm 7 nhóm năng lực | AI đã đưa em vào vị trí thuộc nhóm năng lực dành cho người đã có kinh nghiệm thực tế trong khi bản thân vẫn chưa có kinh nghiệm nhiều trong bảng năng lực như AI đã đề cập tới. Em đã sửa lại cho đúng với level thực tế của mình |
+| 5 | Grox, Gemini | Đối tác phản biện | Em đã hỏi nó về 5 câu hỏi trong Bảng 5 câu kiểm thử công cụ AI, thì nó đã đưa ra 2 câu trùng lặp khác với điều kiện ban đầu em ràng buộc. Và đã bịa thêm thông tin không đúng trong Dữ kiện địa phương. | Em đã kiểm tra và sửa lại cho đúng với từ ngữ địa phương |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
