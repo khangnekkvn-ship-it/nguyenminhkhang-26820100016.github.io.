@@ -8,7 +8,6 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
