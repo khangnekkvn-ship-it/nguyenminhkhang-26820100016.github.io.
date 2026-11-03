@@ -97,6 +97,7 @@ Bên cạnh kỹ thuật hard-core, năng lực ngoại ngữ (đặc biệt là
 | 8 | COS570 | Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
 | 8 | CMP1049 | Khai thác dữ liệu (Tự chọn) | 3 |
 | 8 | COS165 | Hệ thống gợi ý (Tự chọn) | 3 |
+
 **Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
